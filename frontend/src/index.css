@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* anytime a tag is active, display it (this displays the underlines on active pages on the navbar) */
+a.active hr {
+    display: block;
+}
